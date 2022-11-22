@@ -1,5 +1,8 @@
 _repo: Of-one-blood-or-The-hidden-self_69255
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69255-h/images/cover.jpg
 creator:
   author:
     agent_name: Hopkins, Pauline E. (Pauline Elizabeth)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55156
     wikipedia: https://en.wikipedia.org/wiki/Pauline_Hopkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69255#Of-one-blood-or-The-hidden-self
 gutenberg_issued: '2022-10-28'
 identifiers:
   gutenberg: '69255'
